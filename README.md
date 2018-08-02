@@ -85,7 +85,7 @@ You are able to use GearBlynk app even without WiFi connection. In this case you
 Bluetooth internet tethering should be enabled in your phone Connection Settings.
 
 ### Bugs, suggestions
-Discus in this thread [thread](https://community.blynk.cc/)
+Discus in this [thread](https://community.blynk.cc/)
 
 ### Note from developer
 
