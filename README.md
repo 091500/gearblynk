@@ -45,10 +45,9 @@ Now it is possible with GearBlynk app!
 
 
 ## Prerequesties:
-- [obtain](http://docs.blynk.cc/#getting-started-getting-started-with-the-blynk-app-4-auth-token) Blynk Auth token: 
-
-- make a Blynk project, use obtained token.
-- install GearBlynk app from Samsung Galaxy Apps Store on your smartwatch and setup it.
+- [obtain](http://docs.blynk.cc/#getting-started-getting-started-with-the-blynk-app-4-auth-token) Blynk Auth token
+- make a Blynk project, use obtained token
+- install GearBlynk app from Samsung Galaxy Apps Store on your smartwatch and setup it
 
 
 ## App menu and configuration
