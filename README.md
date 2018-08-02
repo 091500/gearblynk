@@ -77,7 +77,8 @@ Required fields:
 App has a built-in Widget with four slots: top, bottom, left, right.
 Custom Trigger could be assigned to each slot.
 
-### Internet connection
+
+## Internet connection
 GearBlynk app uses internet connection only to send requests when you press widget slot 
 buttons or choose an item from Send Triggers list.
 
