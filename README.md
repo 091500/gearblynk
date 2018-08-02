@@ -13,14 +13,14 @@ Now it is possible with GearBlynk app!
 ### App menu and configuration
 App main menu consists of four items:
 
-**1)** Send Triggers: send Triggers to your Blynk-running devices.
+**Send Triggers** - send Triggers to your Blynk-running devices.
 
-**2)** Setup Tokens: add or delete your blynk Tokens (this will not delete token from your Blynk project).
+**Setup Tokens** - add or delete your blynk Tokens (this will not delete token from your Blynk project).
 Required fields: 
 - Name
 - Token
 
-**3)** Setup Triggers: add or delete your Triggers.
+**Setup Trigger** - add or delete your Triggers.
 Required fields: 
 - Name
 - Token
@@ -29,7 +29,7 @@ Required fields:
 - Pin Value
 - Widget Slot
 
-**4)** Setup Widget: assign Triggers to Widget slots.
+**Setup Widget** - assign Triggers to Widget slots.
 
 
 ### App widget
