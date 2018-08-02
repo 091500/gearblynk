@@ -3,6 +3,7 @@
 Imagine you could control any of your Blynk running device from your wrist.
 Now it is possible with GearBlynk app!
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=MkBfo__P5-Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Prerequesties
 1. [obtain](http://docs.blynk.cc/#getting-started-getting-started-with-the-blynk-app-4-auth-token) Blynk Auth token
