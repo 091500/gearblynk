@@ -38,18 +38,20 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ------------
 
-## GearBlynk - Standalone app and widget for Samsung Gear S3 smartwatch series
+# GearBlynk - Standalone app and widget for Samsung Gear S3 smartwatch series
 
 Imagine you could control any of your Blynk running device from your wrist.
 Now it is possible with GearBlynk app!
 
-### Prerequesties:
+
+## Prerequesties:
 - [obtain](http://docs.blynk.cc/#getting-started-getting-started-with-the-blynk-app-4-auth-token) Blynk Auth token: 
 
 - make a Blynk project, use obtained token.
 - install GearBlynk app from Samsung Galaxy Apps Store on your smartwatch and setup it.
 
-### App menu and configuration
+
+## App menu and configuration
 App main menu consists of four items:
 
 **1)** Send Triggers: send Triggers to your Blynk-running devices.
@@ -70,7 +72,8 @@ Required fields:
 
 **4)** Setup Widget: assign Triggers to Widget slots.
 
-### App widget
+
+## App widget
 App has a built-in Widget with four slots: top, bottom, left, right.
 Custom Trigger could be assigned to each slot.
 
@@ -83,11 +86,12 @@ Send Triggers menu item shows a notification if internet connection is absent on
 You are able to use GearBlynk app even without WiFi connection. In this case your smartwatch should be connected to your phone over bluetooth. 
 Bluetooth internet tethering should be enabled in your phone Connection Settings.
 
-### Bugs, suggestions
+
+## Bugs, suggestions
 Discus in this [thread](https://community.blynk.cc/)
 
-### Note from developer
 
+## Note from developer
 Initially I was thinking of making two versions of the GearBlynk: free and paid.
 Free version was supposed to have some limitations.
 Finally I came to a decision of releasing fully functional free version without any limitations.
