@@ -40,16 +40,14 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ## GearBlynk - Standalone app and widget for Samsung Gear S3 smartwatch series
 
-[RU] Обсуждение GearBlynk по-русски
-
 Imagine you could control any of your Blynk running device from your wrist.
 Now it is possible with GearBlynk app!
 
 ### Prerequesties:
-a) Obtain Blynk Auth token: 
-http://docs.blynk.cc/#getting-started-getting-started-with-the-blynk-app-4-auth-token
-b) Make a Blynk project, use obtained token.
-c) Install GearBlynk app from Samsung Galaxy Apps Store on your smartwatch and setup it.
+- [obtain](http://docs.blynk.cc/#getting-started-getting-started-with-the-blynk-app-4-auth-token) Blynk Auth token: 
+
+- make a Blynk project, use obtained token.
+- install GearBlynk app from Samsung Galaxy Apps Store on your smartwatch and setup it.
 
 ### App menu and configuration
 App main menu consists of four items:
