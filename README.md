@@ -53,6 +53,7 @@ c) Install GearBlynk app from Samsung Galaxy Apps Store on your smartwatch and s
 
 ### App menu and configuration
 App main menu consists of four items:
+
 **1)** Send Triggers: send Triggers to your Blynk-running devices.
 
 **2)** Setup Tokens: add or delete your blynk Tokens (this will not delete token from your Blynk project).
