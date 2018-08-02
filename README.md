@@ -57,7 +57,7 @@ Free version was supposed to have some limitations.
 Finally I came to a decision of releasing fully functional free version without any limitations.
 
 If you liked GearBlynk app and would like to support, feel free to make a donation:
-https://money.yandex.ru/to/410015478606422
+[https://money.yandex.ru/to/410015478606422](https://money.yandex.ru/to/410015478606422)
 
 Share your impressions with #GearBlynk hashtag
 
