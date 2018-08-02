@@ -3,6 +3,9 @@
 Imagine you could control any of your Blynk running device from your wrist.
 Now it is possible with GearBlynk app!
 
+watch video demo:
+https://www.youtube.com/watch?v=MkBfo__P5-Q
+
 ### Prerequesties
 1. [obtain](http://docs.blynk.cc/#getting-started-getting-started-with-the-blynk-app-4-auth-token) Blynk Auth token
 1. make a Blynk project, use obtained token
@@ -30,8 +33,6 @@ Required fields:
 
 **Setup Widget** - assign Triggers to Widget slots.
 
-watch video demo:
-https://www.youtube.com/watch?v=MkBfo__P5-Q
 
 ### App widget
 App has a built-in Widget with four slots: top, bottom, left, right.
