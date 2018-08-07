@@ -7,7 +7,7 @@ GearBlynk is available for free download in official Samsung Galaxy Apps store s
 
 Watch [video demo](https://www.youtube.com/watch?v=MkBfo__P5-Q)
 
-### Prerequesties
+### Requirements
 1. [obtain](http://docs.blynk.cc/#getting-started-getting-started-with-the-blynk-app-4-auth-token) Blynk Auth token
 1. make a Blynk project, use obtained token
 1. install GearBlynk app from Samsung Galaxy Apps Store on your smartwatch and setup it
