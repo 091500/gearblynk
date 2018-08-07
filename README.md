@@ -14,14 +14,14 @@ Watch [video demo](https://www.youtube.com/watch?v=MkBfo__P5-Q)
 ### App menu and configuration
 App main menu consists of four items:
 
-❶ **Send Triggers** - send Triggers to your Blynk-running devices.
+➊ **Send Triggers** - send Triggers to your Blynk-running devices.
 
-❷ **Setup Tokens** - add or delete your blynk Tokens (this will not delete token from your Blynk project).
+➋ **Setup Tokens** - add or delete your blynk Tokens (this will not delete token from your Blynk project).
 Required fields: 
 - Name
 - Token
 
-❸ **Setup Trigger** - add or delete your Triggers.
+➌ **Setup Trigger** - add or delete your Triggers.
 Required fields: 
 - Name
 - Token
@@ -30,7 +30,7 @@ Required fields:
 - Pin Value
 - Widget Slot
 
-❹ **Setup Widget** - assign Triggers to Widget slots.
+➍ **Setup Widget** - assign Triggers to Widget slots.
 
 
 ### App widget
