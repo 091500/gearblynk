@@ -63,3 +63,6 @@ If you liked GearBlynk app and would like to support, feel free to make a donati
 Share your impressions with #GearBlynk hashtag
 
 Thank you
+
+### History
+2018.08.07 Version 1.0 uploaded to Samsung Galaxy Apps store
