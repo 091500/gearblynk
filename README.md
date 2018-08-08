@@ -51,6 +51,7 @@ Send Triggers menu item shows a notification if internet connection is absent on
 You are able to use GearBlynk app even without WiFi connection. In this case your smartwatch should be connected to your phone over bluetooth. 
 Bluetooth internet tethering should be enabled in your phone Connection Settings.
 
+Bluetooth tethering on Android [setup](https://drive.google.com/file/d/1hOui7izz4d4lcZPP9c_yMw5HaqX0_ncA/view?usp=sharing)
 
 ### Note from developer
 Initially I was thinking of making two versions of the GearBlynk: free and paid.
