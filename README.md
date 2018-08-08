@@ -25,7 +25,7 @@ Required fields:
 - Name
 - Token
 
-➌ **Setup Trigger** - add or delete your Triggers.
+➌ **Setup Triggers** - add or delete your Triggers.
 Required fields: 
 - Name
 - Token
