@@ -71,3 +71,4 @@ Thank you
 
 ### History
 2018.08.07 Version 1.0 uploaded to Samsung Galaxy Apps store
+2018.08.20 Downloads from 68 unique countries from all over the world! Belarus, Russia, Poland, USA, Germany are at the top.
