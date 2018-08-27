@@ -9,9 +9,6 @@ Watch [video demo](https://www.youtube.com/watch?v=MkBfo__P5-Q)
 
 Read [discussion thread](https://community.blynk.cc/t/gearblynk-standalone-app-and-widget-for-samsung-gear-s3-smartwatch-series/27725) on Blynk Community  
 
-Read [discussion thread](https://community.smartthings.com/t/gearblynk-standalone-app-and-widget-for-samsung-gear-s3-smartwatch-series/133208) on SmartThings Community  
-
-
 
 ### Requirements
 1. [obtain](http://docs.blynk.cc/#getting-started-getting-started-with-the-blynk-app-4-auth-token) Blynk Auth token
