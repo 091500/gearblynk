@@ -4,7 +4,7 @@ Imagine you could control any of your Blynk running device from your wrist.
 Now it is possible with GearBlynk app!
 
 GearBlynk is available for free download in official Samsung Galaxy Apps store since 7 Aug 2018   
-GearBlynk PRO is available in official Samsung Galaxy Apps store since 26 Nov 2018 :boom:
+GearBlynk PRO is available in official Samsung Galaxy Apps store since 26 Nov 2018
 
 **PRO version features:**
 
