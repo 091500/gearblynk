@@ -50,7 +50,7 @@ Required fields:
 
 ➍ **Setup Widget** - assign Triggers to Widget slots.
 
-❺ **Widget Colors** - assign colors to Widget slots. This option is available in **PRO version only**.
+➎ **Widget Colors** - assign colors to Widget slots. This option is available in **PRO version only**.
 
 ### App widget
 App has a built-in Widget with four slots: top, bottom, left, right.
