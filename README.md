@@ -48,8 +48,6 @@ Required fields:
 
 ➍ **Setup Widget** - assign Triggers to Widget slots.
 
-➍ **Setup Widget** - assign Triggers to Widget slots.
-
 ➎ **Widget Colors** - assign colors to Widget slots. This option is available in **PRO version only**.
 
 ### App widget
