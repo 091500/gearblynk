@@ -1,4 +1,4 @@
-## GearBlynk - standalone app and widget for Samsung Gear S3 smartwatch series
+## GearBlynk - standalone app and widget for Samsung smartwatch series
 
 Imagine you could control any of your Blynk running device from your wrist.
 Now it is possible with GearBlynk app!
