@@ -3,12 +3,22 @@
 Imagine you could control any of your Blynk running device from your wrist.
 Now it is possible with GearBlynk app!
 
-GearBlynk is available for free download in official Samsung Galaxy Apps store since 7 Aug 2018
+GearBlynk is available for free download in official Samsung Galaxy Apps store since 7 Aug 2018   
+GearBlynk PRO is available in official Samsung Galaxy Apps store since 26 Nov 2018 :boom:
+
+**PRO version features:**
+
+* Galaxy Watch support
+* Color picker for widget slots
+* 6 widget slots
+* Usability improvements
+
 
 Watch [video demo](https://www.youtube.com/watch?v=MkBfo__P5-Q) for GearBlynk Free version   
 Watch [video demo](https://www.youtube.com/watch?v=i7XN_Xcg_Qs) for GearBlynk PRO version
 
-Read [discussion thread](https://community.blynk.cc/t/gearblynk-standalone-app-and-widget-for-samsung-gear-s3-smartwatch-series/27725) on Blynk Community  
+Read [discussion thread](https://community.blynk.cc/t/gearblynk-standalone-app-and-widget-for-samsung-gear-s3-smartwatch-series/27725) on Blynk Community [free version]  
+Read [discussion thread](https://community.blynk.cc/t/gearblynk-standalone-app-and-widget-for-samsung-gear-s3-smartwatch-series/27725) on Blynk Community [PRO version]  
 
 
 ### Requirements
@@ -18,7 +28,7 @@ Read [discussion thread](https://community.blynk.cc/t/gearblynk-standalone-app-a
 
 
 ### App menu and configuration
-App main menu consists of four items:
+App main menu consists of the following items:
 
 ➊ **Send Triggers** - send Triggers to your Blynk-running devices.
 
@@ -38,6 +48,9 @@ Required fields:
 
 ➍ **Setup Widget** - assign Triggers to Widget slots.
 
+➍ **Setup Widget** - assign Triggers to Widget slots.
+
+❺ **Widget Colors** - assign colors to Widget slots. This option is available in **PRO version only**.
 
 ### App widget
 App has a built-in Widget with four slots: top, bottom, left, right.
@@ -55,14 +68,6 @@ Bluetooth internet tethering should be enabled in your phone Connection Settings
 
 Bluetooth tethering on Android [setup](https://drive.google.com/file/d/1hOui7izz4d4lcZPP9c_yMw5HaqX0_ncA/view?usp=sharing)
 
-### Note from developer
-Initially I was thinking of making two versions of the GearBlynk: free and paid.
-Free version was supposed to have some limitations.
-Finally I came to a decision of releasing fully functional free version without any limitations.
-
-If you liked GearBlynk app and would like to support, feel free to make a donation:
-[https://money.yandex.ru/to/410015478606422](https://money.yandex.ru/to/410015478606422)
-
 Share your impressions with #GearBlynk hashtag
 
 Thank you
@@ -70,4 +75,5 @@ Thank you
 ### History
 2018.08.07 Version 1.0 uploaded to Samsung Galaxy Apps store  
 2018.08.20 Downloads from 68 unique countries from all over the world! Belarus, Russia, Poland, USA, Germany are at the top.  
-2018.10.07 Downloads from 122 unique countries from all over the world!
+2018.10.07 Downloads from 122 unique countries from all over the world!   
+2018.11.28 PRO version released
