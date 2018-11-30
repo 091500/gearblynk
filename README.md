@@ -76,7 +76,7 @@ Thank you
 
 ### Free version History
 2018.08.07 Free version release :fire:   
-2018.08.20 Downloads from 68 unique countries from all over the world! Belarus, Russia, Poland, USA, Germany are at the top :open_mouth:        
+2018.08.20 Downloads from 68 unique countries from all over the world!  :open_mouth:        
 2018.10.07 Downloads from 122 unique countries from all over the world! :clap:  
 2018.11.30 Downloads from 134 unique countries from all over the world! :clap::clap:  
 
