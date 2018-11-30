@@ -51,11 +51,14 @@ Required fields:
 
 ➎ **Widget Colors** - assign colors to Widget slots. This option is available in **PRO version only**.
 
+   
+   
 ### App widget
 App has a built-in Widget with four slots: top, bottom, left, right.
 Custom Trigger could be assigned to each slot.
 
-
+   
+   
 ### Internet connection
 GearBlynk app uses internet connection only to send requests when you press widget slot 
 buttons or choose an item from Send Triggers list.
@@ -72,9 +75,11 @@ Share your impressions with #GearBlynk hashtag
 Thank you
 
 ### Free version History
-2018.08.07 Free version release :worried:   
+2018.08.07 Free version release :fire:   
 2018.08.20 Downloads from 68 unique countries from all over the world! Belarus, Russia, Poland, USA, Germany are at the top :open_mouth:        
 2018.10.07 Downloads from 122 unique countries from all over the world! :clap:  
+2018.11.30 Downloads from 134 unique countries from all over the world! :clap::clap:  
+
 
 ### PRO version History
 2018.11.28 PRO version release :sunglasses:    
