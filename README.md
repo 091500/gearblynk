@@ -54,7 +54,8 @@ Required fields:
    
    
 ### App widget
-App has a built-in Widget with four slots: top, bottom, left, right.
+Free version has a built-in Widget with **four** slots: top, bottom, left, right.
+PRO version has a built-in Widget with **six** slots: 12h, 2h, 4h, 6h, 8h, 10h.
 Custom Trigger could be assigned to each slot.
 
    
