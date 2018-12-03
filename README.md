@@ -18,7 +18,7 @@ Now it is possible with GearBlynk app!
 Watch [video demo](https://www.youtube.com/watch?v=MkBfo__P5-Q) for GearBlynk Free version   
 Watch [video demo](https://www.youtube.com/watch?v=i7XN_Xcg_Qs) for GearBlynk PRO version
 
-Read [discussion thread](https://community.blynk.cc/t/gearblynk-standalone-app-and-widget-for-samsung-gear-s3-smartwatch-series/27725) on Blynk Community [free version]  
+Read [discussion thread](https://community.blynk.cc/t/gearblynk-standalone-app-and-widget-for-samsung-gear-s3-smartwatch-series/27725) on Blynk Community [Free version]  
 Read [discussion thread](https://community.blynk.cc/t/gearblynk-pro-standalone-app-and-widget-for-samsung-smartwatch-series/30982) on Blynk Community [PRO version]  
 
 
