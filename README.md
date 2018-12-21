@@ -10,6 +10,7 @@ Now it is possible with GearBlynk app!
 **PRO version features:**
 
 * Galaxy Watch support
+* Custom Server support
 * Color picker for widget slots
 * 6 widget slots
 * Usability improvements
@@ -47,9 +48,18 @@ Required fields:
 - Pin Value
 - Widget Slot
 
-➍ **Setup Widget** - assign Triggers to Widget slots.
+➍ **Setup Server** - setup server type. This option is available in **PRO version only**.
+Required fields: 
+- Server Type
+- Server URL
 
-➎ **Widget Colors** - assign colors to Widget slots. This option is available in **PRO version only**.
+When Server Type is 'blynk-cloud' then Server URL does not make any sense and could be not specified.
+Server URL should be provided in format ip_address:port example:   
+192.168.100.9:8080
+
+➎ **Setup Widget** - assign Triggers to Widget slots.
+
+➏ **Widget Colors** - assign colors to Widget slots. This option is available in **PRO version only**.
 
    
    
@@ -84,3 +94,4 @@ Thank you
 
 ### PRO version History
 2018.11.28 PRO version release :sunglasses:    
+2018.12.21 Added custom server support    
