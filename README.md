@@ -73,7 +73,7 @@ Custom Trigger could be assigned to each slot.
 ### Import Token feature (PRO version only)
 This outstanding feature allows to quickly import long Blynk token strings instead of typing them on your watch!    
 Make sure your watch is connected to internet. Then perform the following steps:    
-1. visit https://thawing-savannah-47017.herokuapp.com
+1. visit [GearBlynk PRO Import Token service](https://thawing-savannah-47017.herokuapp.com)
 2. generate short 4-symbol code for your Blynk token   
 3. open GearBlynk PRO app and go to Setup Tokens -> Add -> Import Token   
 4. enter generated 4-symbol code and enjoy   
