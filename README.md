@@ -70,11 +70,21 @@ Custom Trigger could be assigned to each slot.
 
    
    
-### Internet connection
-GearBlynk app uses internet connection only to send requests when you press widget slot 
+### Import Token feature (PRO version only)
+This outstanding feature allows to quickly import long Blynk token strings instead of typing them on your watch!    
+Make sure your watch is connected to internet. Then perform the following steps:    
+1. visit https://thawing-savannah-47017.herokuapp.com
+2. generate short 4-symbol code for your Blynk token   
+3. open GearBlynk PRO app and go to Setup Tokens -> Add -> Import Token   
+4. enter generated 4-symbol code and enjoy   
+
+In case something goes wrong you will see an error message.
+
+### Network connection
+GearBlynk app uses network connection only to send requests when you press widget slot 
 buttons or choose an item from Send Triggers list.
 
-Send Triggers menu item shows a notification if internet connection is absent on your device.
+Send Triggers menu item shows a notification if network connection is absent on your device.
 
 You are able to use GearBlynk app even without WiFi connection. In this case your smartwatch should be connected to your phone over bluetooth. 
 Bluetooth internet tethering should be enabled in your phone Connection Settings.
@@ -94,4 +104,5 @@ Thank you
 
 ### PRO version History
 2018.11.28 PRO version release :sunglasses:    
-2018.12.21 Added custom server support    
+2018.12.21 Added custom server support  
+2019.01.03 Added Import Token feature
