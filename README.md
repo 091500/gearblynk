@@ -90,7 +90,7 @@ You are able to use GearBlynk app even without WiFi connection. In this case you
 Bluetooth internet tethering should be enabled in your phone Connection Settings.
 
 Bluetooth tethering on Android:   
-<img src="https://github.com/091500/gearblynk/blob/master/Android-mobile-hotspot-setup.png">
+<img src="https://github.com/091500/gearblynk/blob/master/Android-mobile-hotspot-setup.png?raw=true">
 
 
 Share your impressions with #GearBlynk hashtag
