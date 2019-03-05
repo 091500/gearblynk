@@ -29,6 +29,15 @@ Read [discussion thread](https://community.blynk.cc/t/gearblynk-pro-standalone-a
 1. install GearBlynk app from Samsung Galaxy Apps Store on your smartwatch and setup it
 
 
+Get PRO version:
+
+[<img width="250" src="https://github.com/091500/gearblynk/blob/master/GalaxyStore_English.png?raw=true">](https://galaxy.store/blynkpro)
+     
+Get FREE version:
+
+[<img width="250" src="https://github.com/091500/gearblynk/blob/master/GalaxyStore_English.png?raw=true">](https://galaxy.store/blynk)
+
+
 ### App menu and configuration
 App main menu consists of the following items:
 
